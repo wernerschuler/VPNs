@@ -40,6 +40,7 @@ Create a virtual machine in Azure. <br>
   For image pick Windows 10 <br>
   Set your Username and Password to something you will remember <br>
   Click Review + Create 
+  After it's done validating click Create 
 </p>
 <br />
 
@@ -47,7 +48,15 @@ Create a virtual machine in Azure. <br>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Connect to the Virtual machine you just created through Remote Desktop Connection <br>
+  Click Start <br>
+  Search for Remote Desktop Connection <br>
+  Enter the public IP address of the newly created virtual machine <br>
+  Click Connect <br>
+  Click More choices <br>
+  Click Use a different account <br>
+  Enter the Username and Password that you have created for the virtual machine <br>
+  
 </p>
 <br />
 
@@ -55,6 +64,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  From within the virtual machine visit whatismyipaddress.com <br>
+  Make a note of the IP address and city <br>
+  Go back to your actual computer <br>
+  Search ProtonVPN <br>
+  Click Create account <br>
+  Click Get Proton Free <br>
+  Enter your Email address <br>
+  Set your password <br>
+  Once your account is created copy the URL and paste it into your virtual machine <br>
+  Sign in to ProtonVPN from your virtual machine <br>
+  Download the Windows ProtonVPN client 
+
 </p>
 <br />
