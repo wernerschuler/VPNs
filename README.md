@@ -33,6 +33,13 @@ This tutorial outlines the steps to setup ProtonVPN.<br />
 Create a virtual machine in Azure. <br>
   Go to portal.azure.com <br>
   Go to Virtual machines <br>
+  Create new Virtual machine <br>
+  For Resource group let Azure automatically create a Resource group <br>
+  Add a virtual machine name <br>
+  Set region to somewhere that is different from where you live <br>
+  For image pick Windows 10 <br>
+  Set your Username and Password to something you will remember <br>
+  Click Review + Create 
 </p>
 <br />
 
