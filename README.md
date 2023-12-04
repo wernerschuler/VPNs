@@ -30,8 +30,8 @@ This tutorial outlines the steps to setup ProtonVPN.<br />
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a virtual machine in Azure. <br>
-  Go to portal.azure.com <br>
+<strong>Create a virtual machine in Azure.</strong><br>
+    Go to portal.azure.com <br>
   Go to Virtual machines <br>
   Create new Virtual machine <br>
   For Resource group let Azure automatically create a Resource group <br>
