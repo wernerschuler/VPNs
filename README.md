@@ -1,8 +1,3 @@
-# VPNs
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
-
 <h1>Setting up and using ProtonVPN</h1>
 This tutorial outlines the steps to setup ProtonVPN.<br />
 
@@ -23,18 +18,18 @@ This tutorial outlines the steps to setup ProtonVPN.<br />
 
 <h2>Steps</h2>
 
+<p><strong>(1. Create a virtual machine in Azure)</strong><br></p>
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<strong>(1. Create a virtual machine in Azure)</strong><br>
+  <img src="https://i.imgur.com/EeULlca.png" height="50%" width="60%" alt="Create virtual machine"/> <br> <br> 
   - Go to portal.azure.com <br>
   - Click Virtual machines <br>
   - Click Create, then Azure virtual machine<br>
   - Add a virtual machine name <br>
   - Resource group will be created automatically <br>
   - Set region to somewhere that is different from where you live <br>
-  - For image pick Windows 10 Pro <br>
+  - For image pick Windows 10 Pro <br> <br>
+  <img src="https://i.imgur.com/nWLXFFx.png" height="50%" width="60%" alt="Create virtual machine 2"/> <br> <br>
   - Set the Size to 2 vcpus or more <br>
   - Set your Username and Password to something you will remember <br>
   - Click Review + Create <br>
@@ -43,14 +38,13 @@ This tutorial outlines the steps to setup ProtonVPN.<br />
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 <strong>(2. Log into the virtual machine with Remote desktop connection)</strong></p><br>
+<img src="https://i.imgur.com/D3ce1QI.png" height="50%" width="60%" alt="Remote connection"/> <br>
   - Click Start <br>
   - Search for Remote Desktop Connection <br>
   - Enter the public IP address of the newly created virtual machine <br>
-  - Click Connect <br>
+  - Click Connect <br> <br>
+  <img src="https://i.imgur.com/M3SkZ2l.png" height="50%" width="60%" alt="Remote connection"/> <br>
   - Click More choices <br>
   - Click Use a different account <br>
   - Enter the Username and Password that you have created for the virtual machine <br>
