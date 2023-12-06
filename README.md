@@ -54,9 +54,6 @@ This tutorial outlines the steps to setup ProtonVPN.<br />
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
   <strong>(3. Get IP address and location for the virtual machine)</strong> <br>
    - From within the virtual machine visit whatismyipaddress.com <br>
    - Make a note of the IP address and city <br>
