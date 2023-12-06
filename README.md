@@ -56,10 +56,11 @@ This tutorial outlines the steps to setup ProtonVPN.<br />
 <p>
   <strong>(3. Get IP address and location for the virtual machine)</strong> <br>
    - From within the virtual machine visit whatismyipaddress.com <br>
-   - Make a note of the IP address and city <br>
+   - Make a note of the IP address and city <br> </p>
 
-  <strong>(4. Sign up and download ProtonVPN)</strong> <br>
-  - Go to your actual computer <br>
+
+<p> <strong>(4. Sign up and download ProtonVPN)</strong> <br>
+   - Go to your actual computer <br>
   - Search ProtonVPN <br>
   - Click Create account <br>
   - Click Get Proton Free <br>
@@ -68,16 +69,19 @@ This tutorial outlines the steps to setup ProtonVPN.<br />
   - Once your account is created copy the URL and paste it into your virtual machine <br>
   - Sign in to ProtonVPN from your virtual machine <br>
   - Download the Windows ProtonVPN client <br>
-  - Install the file <br>
+  - Install the ProtonVPN file <br> </p>
 
 <p>
   <strong>(5. Test the VPN)</strong> <br>
-  - Go to the ProtonVPN app <br>
-  - Sign in <br> 
+  - From your virtual machine go to the ProtonVPN app <br>
+  - Sign in <br> <br>
+  <img src="https://i.imgur.com/GdHex8Z.png" height="50%" width="60%" alt="Japanese Amazon"/> <br>
   - Next to Free connection click Connect <br>
   - Browse to whatismyipaddress.com <br>
-  - Make a note of the IP address and location <br>
-  - Try browsing to Amazon and/or Disney and see if there is anything different about the sites in relation to the location of your VPN server.
+  - Make a note of the IP address and location <br> <br>
+  <img src="https://i.imgur.com/1EUwmke.png" height="50%" width="60%" alt="Japanese Amazon"/> <br>
+  - Try browsing to Amazon and/or Disney and see if there is anything different about the sites in relation to the location of your VPN server <br>
+    &nbsp Because I am connected to a Japanese server Japanese websites have appeared in my Google search
 </p>
   
 </p>
