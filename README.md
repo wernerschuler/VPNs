@@ -1,11 +1,11 @@
-<h1>Setting up and using ProtonVPN</h1>
-This tutorial outlines the steps to setup ProtonVPN.<br />
+<h1>Setting up and using Proton VPN</h1>
+This tutorial outlines the steps to setup Proton VPN.<br />
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- ProtonVPN
+- Proton VPN
 
 <h2>Operating Systems Used </h2>
 
@@ -14,7 +14,7 @@ This tutorial outlines the steps to setup ProtonVPN.<br />
 <h2>List of Prerequisites</h2>
 
 - Access to Microsoft Azure
-- Free version of ProtonVPN
+- Free version of Proton VPN
 
 <h2>Steps</h2>
 
@@ -59,21 +59,23 @@ This tutorial outlines the steps to setup ProtonVPN.<br />
    - Make a note of the IP address and city <br> </p>
 
 
-<p> <strong>(4. Sign up and download ProtonVPN)</strong> <br>
-   - Go to your actual computer <br>
-  - Search ProtonVPN <br>
+<p> <strong>(4. Sign up and download Proton VPN)</strong> <br>
+   - Go to your actual computer <br> <br>
+  <img src="https://i.imgur.com/eCAiJox.png" height="50%" width="60%" alt="Proton clients download"/> <br>
+  - Search Proton VPN <br>
   - Click Create account <br>
   - Click Get Proton Free <br>
   - Enter your Email address <br>
-  - Set your password <br>
+  - Set your password <br> <br>
+  <img src="https://i.imgur.com/9yOZzJ3.png" height="50%" width="60%" alt="Proton clients download"/> <br>
   - Once your account is created copy the URL and paste it into your virtual machine <br>
-  - Sign in to ProtonVPN from your virtual machine <br>
-  - Download the Windows ProtonVPN client <br>
+  - Sign in to Proton VPN from your virtual machine <br>
+  - Download the Windows Proton VPN client <br>
   - Install the ProtonVPN file <br> </p>
 
 <p>
   <strong>(5. Test the VPN)</strong> <br>
-  - From your virtual machine go to the ProtonVPN app <br>
+  - From your virtual machine go to the Proton VPN app <br>
   - Sign in <br> <br>
   <img src="https://i.imgur.com/GdHex8Z.png" height="50%" width="60%" alt="Japanese Amazon"/> <br>
   - Next to Free connection click Connect <br>
