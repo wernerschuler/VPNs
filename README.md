@@ -4,7 +4,7 @@ This tutorial outlines the steps to setup Proton VPN.<br />
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop Connection
 - Proton VPN
 
 <h2>Operating Systems Used </h2>
